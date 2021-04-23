@@ -35,7 +35,7 @@ class SentimentClassifier(nn.Module):
     return self.out(output)
 
 # loading the trained model
-PATH = '/content/drive/MyDrive/Colab Notebooks/Projects/Sentiment Analysis with Bert/model.pkl'
+PATH = './model.pkl'
 model = SentimentClassifier(len(class_names))
 model.load_state_dict(torch.load(PATH, map_location=torch.device('cpu')))
 model.eval()
