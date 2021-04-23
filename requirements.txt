@@ -1,4 +1,4 @@
-torch==1.8.1+cu101
+torch==1.8.1
 streamlit==0.80.0
 numpy==1.19.5
 transformers==4.5.1
