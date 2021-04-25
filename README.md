@@ -1,4 +1,5 @@
 # BERT
 
-https://user-images.githubusercontent.com/53497388/116011167-a5a9c480-a5f1-11eb-8690-b53363a86d27.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/53497388/116011824-f7a01980-a5f4-11eb-95d7-722405b67d44.gif)
+
 
